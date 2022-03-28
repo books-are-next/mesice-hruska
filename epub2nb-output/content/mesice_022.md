@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 V laku vysokých pokojových dveří  
 v porcelánové kaluži talíře  

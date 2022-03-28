@@ -1,0 +1,790 @@
+{
+  "author": "Petr Hruška",
+  "contenttype": "poetry",
+  "edition": "beletrie",
+  "identifier": "hruska-mesice-0983c4d",
+  "languagecode": "cs",
+  "modified": "2020-01-16T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Měsíce",
+  "revision": "0983c4d",
+  "generatedAt": {
+    "date": "Mon Mar 28 2022 18:54:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648493685574
+  },
+  "documents": [
+    {
+      "title": "Měsíce",
+      "file": "mesice_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "mesice_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíce",
+      "file": "mesice_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "mesice_001.html",
+      "next": "mesice_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíce",
+      "file": "mesice_003.html",
+      "words": 3,
+      "chars": 17,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "mesice_002.html",
+      "next": "mesice_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíce",
+      "file": "mesice_004.html",
+      "words": 88,
+      "chars": 572,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "mesice_003.html",
+      "next": "mesice_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíce",
+      "file": "mesice_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "mesice_004.html",
+      "next": "mesice_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_006.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "mesice_005.html",
+      "next": "mesice_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_007.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "mesice_006.html",
+      "next": "mesice_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_008.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "mesice_007.html",
+      "next": "mesice_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_009.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "mesice_008.html",
+      "next": "mesice_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_010.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "mesice_009.html",
+      "next": "mesice_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_011.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "mesice_010.html",
+      "next": "mesice_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_012.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 11,
+      "prev": "mesice_011.html",
+      "next": "mesice_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_013.html",
+      "words": 24,
+      "chars": 133,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 12,
+      "prev": "mesice_012.html",
+      "next": "mesice_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_014.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 13,
+      "prev": "mesice_013.html",
+      "next": "mesice_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_015.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "mesice_014.html",
+      "next": "mesice_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_016.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "mesice_015.html",
+      "next": "mesice_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_017.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "mesice_016.html",
+      "next": "mesice_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_018.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 17,
+      "prev": "mesice_017.html",
+      "next": "mesice_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_019.html",
+      "words": 23,
+      "chars": 127,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "mesice_018.html",
+      "next": "mesice_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_020.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 19,
+      "prev": "mesice_019.html",
+      "next": "mesice_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_021.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 20,
+      "prev": "mesice_020.html",
+      "next": "mesice_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_022.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 21,
+      "prev": "mesice_021.html",
+      "next": "mesice_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_023.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "mesice_022.html",
+      "next": "mesice_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_024.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 23,
+      "prev": "mesice_023.html",
+      "next": "mesice_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_025.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 24,
+      "prev": "mesice_024.html",
+      "next": "mesice_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_026.html",
+      "words": 39,
+      "chars": 218,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 25,
+      "prev": "mesice_025.html",
+      "next": "mesice_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_027.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 26,
+      "prev": "mesice_026.html",
+      "next": "mesice_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_028.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 27,
+      "prev": "mesice_027.html",
+      "next": "mesice_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_029.html",
+      "words": 26,
+      "chars": 129,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 28,
+      "prev": "mesice_028.html",
+      "next": "mesice_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_030.html",
+      "words": 35,
+      "chars": 193,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 29,
+      "prev": "mesice_029.html",
+      "next": "mesice_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_031.html",
+      "words": 23,
+      "chars": 137,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 30,
+      "prev": "mesice_030.html",
+      "next": "mesice_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_032.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 31,
+      "prev": "mesice_031.html",
+      "next": "mesice_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_033.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "mesice_032.html",
+      "next": "mesice_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_034.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 33,
+      "prev": "mesice_033.html",
+      "next": "mesice_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_035.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 34,
+      "prev": "mesice_034.html",
+      "next": "mesice_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_036.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 35,
+      "prev": "mesice_035.html",
+      "next": "mesice_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Červenec • Měsíce",
+      "file": "mesice_037.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 36,
+      "prev": "mesice_036.html",
+      "next": "mesice_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Červenec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíce",
+      "file": "mesice_038.html",
+      "words": 43,
+      "chars": 290,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 37,
+      "prev": "mesice_037.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 336,
+      "chars": 2057,
+      "ideas": 111
+    },
+    "chapters": {
+      "words": 330,
+      "chars": 2024,
+      "ideas": 106
+    }
+  }
+}

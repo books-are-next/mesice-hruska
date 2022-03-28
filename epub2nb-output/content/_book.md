@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Měsíce
   identifier: 54f6d577-b438-4ec8-b0c2-3c2e25d791fe
   author: Petr Hruška
   publisher: Městská knihovna v Praze
   modified: '2020-01-16T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - mesice_001.html
   - mesice_002.html
@@ -52,6 +56,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

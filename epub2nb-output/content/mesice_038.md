@@ -1,9 +1,10 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Petr Hruška  
-Měsíce
+**Petr Hruška  
+Měsíce**
 
 Ilustrace na obálce KRs Studio/Shutterstock.com
 

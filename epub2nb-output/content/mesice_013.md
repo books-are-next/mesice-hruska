@@ -1,10 +1,9 @@
 ---
+title: Červenec
 contentType: prose
 ---
 
-## Červenec
-
-Janu Balabánovi
+_Janu Balabánovi_
 
 U okna noční ložnice  
 jako u okna vlaku  
