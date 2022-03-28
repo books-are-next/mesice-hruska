@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="54f6d577-b438-4ec8-b0c2-3c2e25d791fe"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Měsíce</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>(V tenkém krvácení cihel)</text>
+      </navLabel>
+      <content src="Text/mesice_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>(Ve tmě svítí)</text>
+      </navLabel>
+      <content src="Text/mesice_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>(Mlátí do trubek)</text>
+      </navLabel>
+      <content src="Text/mesice_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>(Žhne oltář kredence)</text>
+      </navLabel>
+      <content src="Text/mesice_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>(Vlaky z Ostravy)</text>
+      </navLabel>
+      <content src="Text/mesice_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>(V bedně od rajských)</text>
+      </navLabel>
+      <content src="Text/mesice_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>(Žádné další cesty)</text>
+      </navLabel>
+      <content src="Text/mesice_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>(U okna noční ložnice)</text>
+      </navLabel>
+      <content src="Text/mesice_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>(Toho chlastu)</text>
+      </navLabel>
+      <content src="Text/mesice_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>(Vzadu v hospodě)</text>
+      </navLabel>
+      <content src="Text/mesice_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>(Přibývá květinových vzorů)</text>
+      </navLabel>
+      <content src="Text/mesice_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>(Nastěhovat se krátce)</text>
+      </navLabel>
+      <content src="Text/mesice_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>(Zelený svetr)</text>
+      </navLabel>
+      <content src="Text/mesice_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>(Bude oběd)</text>
+      </navLabel>
+      <content src="Text/mesice_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>(Padá prádlo)</text>
+      </navLabel>
+      <content src="Text/mesice_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>(Okry stěn)</text>
+      </navLabel>
+      <content src="Text/mesice_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>(V laku vysokých pokojových dveří)</text>
+      </navLabel>
+      <content src="Text/mesice_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>(Ještě to půjde)</text>
+      </navLabel>
+      <content src="Text/mesice_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>(Po deštivém týdnu)</text>
+      </navLabel>
+      <content src="Text/mesice_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>(Ten šelest)</text>
+      </navLabel>
+      <content src="Text/mesice_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>(Taková voda z nebe spadla)</text>
+      </navLabel>
+      <content src="Text/mesice_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>(Dopoledne kropenaté hračkami)</text>
+      </navLabel>
+      <content src="Text/mesice_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>(Lijavec jasu)</text>
+      </navLabel>
+      <content src="Text/mesice_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>(U domu)</text>
+      </navLabel>
+      <content src="Text/mesice_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>(V noci škrábne křik holčičky)</text>
+      </navLabel>
+      <content src="Text/mesice_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>(V rohu u rybízů)</text>
+      </navLabel>
+      <content src="Text/mesice_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>(Pokaždé kdosi vstává dřív)</text>
+      </navLabel>
+      <content src="Text/mesice_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>(Lehké jídlo)</text>
+      </navLabel>
+      <content src="Text/mesice_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>(Krátká večerní milost)</text>
+      </navLabel>
+      <content src="Text/mesice_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>(Celé odpoledne se potkáváme)</text>
+      </navLabel>
+      <content src="Text/mesice_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>(Přistupuju ke krajům)</text>
+      </navLabel>
+      <content src="Text/mesice_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>(Dole Ostrava)</text>
+      </navLabel>
+      <content src="Text/mesice_037.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
