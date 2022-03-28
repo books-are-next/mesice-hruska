@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Ve tmě svítí  
 odřený roh  

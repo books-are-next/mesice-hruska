@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Po deštivém týdnu  
 větrem zvýznamnělý  

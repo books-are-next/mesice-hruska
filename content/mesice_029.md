@@ -1,10 +1,9 @@
 ---
+title: Červenec
 contentType: prose
 ---
 
-## Červenec
-
-v Doksích
+_v Doksích_
 
 U domu  
 do šera plamenka  

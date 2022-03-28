@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Krátká večerní milost  
 opatřování světla a vody  

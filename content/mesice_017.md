@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Nastěhovat se krátce  
 pro obvyklý letní důvod  

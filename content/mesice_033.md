@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Lehké jídlo  
 s polohlasy blízkých  

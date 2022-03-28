@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 V tenkém krvácení cihel  
 zařizovaného domu  

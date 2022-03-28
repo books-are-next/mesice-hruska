@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Vlaky z Ostravy  
 chlap v pruhovaném triku  

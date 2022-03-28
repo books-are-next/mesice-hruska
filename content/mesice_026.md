@@ -1,10 +1,9 @@
 ---
+title: Červenec
 contentType: prose
 ---
 
-## Červenec
-
-Františku H.
+_Františku H._
 
 Taková voda z nebe spadla  
 a vstala a je pryč  

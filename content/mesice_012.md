@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Žádné další cesty  
 stojíme v předsíni jako horko  

@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Dopoledne kropenaté hračkami  
 okolo postávají květiny  

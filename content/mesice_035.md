@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Celé odpoledne se potkáváme  
 v členitém domě  

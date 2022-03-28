@@ -1,8 +1,7 @@
 ---
+title: Červenec
 contentType: prose
 ---
-
-## Červenec
 
 Ještě to půjde  
 rozvěsit na tenké domácí hřebíky  
