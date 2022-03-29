@@ -40,9 +40,9 @@
             "filename": "mesice_001.md",
             "xhtml": "mesice_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "mesice_002.md",
             "xhtml": "mesice_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "mesice_003.md",
             "xhtml": "mesice_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "mesice_004.md",
             "xhtml": "mesice_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "bělavé peří nepokoje..."
           },
           {
             "filename": "mesice_006.md",
@@ -103,10 +104,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Červenec"
           },
           {
             "filename": "mesice_007.md",
@@ -116,7 +118,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -128,7 +130,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -140,7 +142,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -152,7 +154,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -164,7 +166,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -176,7 +178,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -188,7 +190,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -200,7 +202,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -212,7 +214,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -224,7 +226,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -236,7 +238,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -248,7 +250,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -260,7 +262,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -272,7 +274,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -284,7 +286,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -296,7 +298,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -308,7 +310,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -320,7 +322,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -332,7 +334,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -344,7 +346,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -356,7 +358,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -368,7 +370,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -380,7 +382,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -392,7 +394,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -404,7 +406,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -416,7 +418,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -428,7 +430,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -440,7 +442,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -452,7 +454,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -464,7 +466,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -476,7 +478,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -484,15 +486,16 @@
             "filename": "mesice_038.md",
             "xhtml": "mesice_038.html",
             "id": 37,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
-            "hungry": false,
+            "inToc": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ]
   },
@@ -800,6 +803,6 @@
       "user": "books-are-next",
       "repo": "mesice-hruska"
     },
-    "generatedAt": 1648493581676
+    "generatedAt": 1648537145619
   }
 }

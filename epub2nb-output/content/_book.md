@@ -14,47 +14,19 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - mesice_001.html
   - mesice_002.html
-  - mesice_003.html
-  - mesice_004.html
   - mesice_005.html
   - mesice_006.html
-  - mesice_007.html
-  - mesice_008.html
-  - mesice_009.html
-  - mesice_010.html
-  - mesice_011.html
-  - mesice_012.html
-  - mesice_013.html
-  - mesice_014.html
-  - mesice_015.html
-  - mesice_016.html
-  - mesice_017.html
-  - mesice_018.html
-  - mesice_019.html
-  - mesice_020.html
-  - mesice_021.html
-  - mesice_022.html
-  - mesice_023.html
-  - mesice_024.html
-  - mesice_025.html
-  - mesice_026.html
-  - mesice_027.html
-  - mesice_028.html
-  - mesice_029.html
-  - mesice_030.html
-  - mesice_031.html
-  - mesice_032.html
-  - mesice_033.html
-  - mesice_034.html
-  - mesice_035.html
-  - mesice_036.html
-  - mesice_037.html
-  - mesice_038.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: mesice_005.html
+        title: bělavé peří nepokoje...
+        hiddenTitle: true
+      - link: mesice_006.html
+        title: Červenec
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
