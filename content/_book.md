@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - mesice_002.html
+  - promo.html
   - mesice_005.html
   - mesice_006.html
   - colophon.html
