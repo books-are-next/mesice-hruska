@@ -1,22 +1,29 @@
 {
-  "author": "Petr Hruška",
-  "contenttype": "poetry",
-  "edition": "beletrie",
-  "identifier": "hruska-mesice-30639fe",
-  "languagecode": "cs",
-  "modified": "2020-01-16T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Měsíce",
-  "revision": "30639fe",
+  "author": "Petr Hruška",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hruska-mesice-c8bf056",
+  "revision": "c8bf056",
+  "readingOrder": [
+    "promo.html",
+    "mesice_005.html",
+    "mesice_006.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 29 2022 07:00:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648537222243
+    "date": "Thu May 12 2022 10:41:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352078343
   },
   "documents": [
     {
-      "title": "Měsíce",
-      "file": "mesice_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +31,7 @@
       "order": 0,
       "prev": null,
       "next": "mesice_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Měsíce",
@@ -42,7 +41,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "mesice_002.html",
+      "prev": "promo.html",
       "next": "mesice_006.html",
       "toc": [
         {
@@ -55,7 +54,7 @@
       ]
     },
     {
-      "title": "Červenec • Měsíce",
+      "title": "Červenec",
       "file": "mesice_006.html",
       "words": 781,
       "chars": 4627,
@@ -75,11 +74,11 @@
       ]
     },
     {
-      "title": "Tiráž • Měsíce",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 135,
-      "chars": 884,
-      "ideas": 21,
+      "words": 117,
+      "chars": 757,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "mesice_006.html",
@@ -97,9 +96,9 @@
   ],
   "totals": {
     "all": {
-      "words": 921,
-      "chars": 5539,
-      "ideas": 295
+      "words": 903,
+      "chars": 5412,
+      "ideas": 289
     },
     "chapters": {
       "words": 781,

@@ -52,7 +52,7 @@
             "filename": "mesice_002.md",
             "xhtml": "mesice_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -803,6 +803,6 @@
       "user": "books-are-next",
       "repo": "mesice-hruska"
     },
-    "generatedAt": 1648537145619
+    "generatedAt": 1652351549249
   }
 }
