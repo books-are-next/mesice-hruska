@@ -1,6 +1,6 @@
 ---
 title: Červenec
-contentType: prose
+contentType: poetry
 ---
 
 V tenkém krvácení cihel  
