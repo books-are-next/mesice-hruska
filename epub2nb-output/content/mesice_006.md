@@ -3,6 +3,8 @@ title: Červenec
 contentType: poetry
 ---
 
+<section>
+
 V tenkém krvácení cihel  
 zařizovaného domu  
 vyprchává  
@@ -11,7 +13,11 @@ tak bezmocně později
 věděné  
 v rozlehlých bílých dnech
 
+</section>
 
+
+
+<section>
 
 Ve tmě svítí  
 odřený roh  
@@ -23,7 +29,11 @@ rány a kletba
 chlapi  
 stěhují pietu
 
+</section>
 
+
+
+<section>
 
 Mlátí do trubek  
 dělá přívody  
@@ -34,7 +44,11 @@ když se to posere
 zase příjde  
 ale ono se to neposere
 
+</section>
 
+
+
+<section>
 
 Žhne oltář kredence  
 trhnutím se budíme  
@@ -47,7 +61,11 @@ monstrance odpoledne v kredenci
 kolem se zdvihá  
 domácnost
 
+</section>
 
+
+
+<section>
 
 Vlaky z Ostravy  
 chlap v pruhovaném triku  
@@ -58,7 +76,11 @@ pruhovaném triku
 lahváč je poloprázdný  
 jak vzdálenost ve slově Karviná
 
+</section>
 
+
+
+<section>
 
 V bedně od rajských  
 krabice od krevet  
@@ -69,7 +91,11 @@ zmohutněly
 nad ženskou s nahýma rukama  
 klepajícíma popel
 
+</section>
 
+
+
+<section>
 
 Žádné další cesty  
 stojíme v předsíni jako horko  
@@ -80,7 +106,11 @@ stojíme v předsíni jako horko
 všechno položit  
 udržet byt
 
+</section>
 
+
+
+<section>
 
 _Janu Balabánovi_
 
@@ -91,7 +121,11 @@ tma stromu
 za zády hledí zvířata  
 na dětském pyžamu
 
+</section>
 
+
+
+<section>
 
 Toho chlastu  
 podlepený obrázek moře  
@@ -102,7 +136,11 @@ a modrá košile
 nevlastního syna  
 u krku stále důvěřivě zapnutá
 
+</section>
 
+
+
+<section>
 
 Vzadu v hospodě  
 mlčí bílá  
@@ -112,7 +150,11 @@ papír od lupínků
 na patře smirkujou  
 hotelové okno
 
+</section>
 
+
+
+<section>
 
 Přibývá květinových vzorů  
 klidné kručinky  
@@ -122,7 +164,11 @@ stále máš šaty přiléhavé
 jen říkám že přibývá  
 tichého květování
 
+</section>
 
+
+
+<section>
 
 Nastěhovat se krátce  
 pro obvyklý letní důvod  
@@ -133,7 +179,11 @@ neznámé polohy vypínačů
 několikadenní naděje  
 přemístěných věcí
 
+</section>
 
+
+
+<section>
 
 Zelený svetr  
 po všech společných letech  
@@ -144,7 +194,11 @@ zvednu se
 zezadu obejmu  
 zelený svetr
 
+</section>
 
+
+
+<section>
 
 Bude oběd
 
@@ -156,7 +210,11 @@ nemá smysl nic začínat
 kříž a hodiny  
 visí stejně
 
+</section>
 
+
+
+<section>
 
 Padá prádlo  
 jako když se kurva  
@@ -170,7 +228,11 @@ padá
 do ponížení  
 hlubokého bytu
 
+</section>
 
+
+
+<section>
 
 Okry stěn  
 popraskané do větví cypřišů  
@@ -182,7 +244,11 @@ v cikánských domech naproti
 navečer hasnou  
 rudé koberce
 
+</section>
 
+
+
+<section>
 
 V laku vysokých pokojových dveří  
 v porcelánové kaluži talíře  
@@ -192,7 +258,11 @@ klidná lampa dne
 muž před knihovnou  
 žena po dětech
 
+</section>
 
+
+
+<section>
 
 Ještě to půjde  
 rozvěsit na tenké domácí hřebíky  
@@ -204,7 +274,11 @@ do dveří pomoci nedávné ženě
 za zády s podzimně černou větví  
 děje
 
+</section>
 
+
+
+<section>
 
 Po deštivém týdnu  
 větrem zvýznamnělý  
@@ -214,7 +288,11 @@ jedící rodina
 jste mrtví prosí dítě  
 a míří hračkou
 
+</section>
 
+
+
+<section>
 
 Ten šelest  
 byl jenom špatně pověšený  
@@ -226,7 +304,11 @@ a stesk
 to je nezavřená  
 zásuvka s mýdly
 
+</section>
 
+
+
+<section>
 
 _Františku H._
 
@@ -241,7 +323,11 @@ kousíček drobného deště
 jako doslov  
 padají šustky
 
+</section>
 
+
+
+<section>
 
 Dopoledne kropenaté hračkami  
 okolo postávají květiny  
@@ -253,7 +339,11 @@ vystoupit ze stínu zahrady
 rozhodit ruce  
 a majetnicky zavolat
 
+</section>
 
+
+
+<section>
 
 Lijavec jasu  
 bůh jde kolem oken  
@@ -265,7 +355,11 @@ přistiženy se vrací
 bůh jde kolem zdí  
 strmých zdí s policema
 
+</section>
 
+
+
+<section>
 
 _v Doksích_
 
@@ -279,7 +373,11 @@ před nocí uklízím
 koprově tenkou  
 matčinu hůl
 
+</section>
 
+
+
+<section>
 
 V noci škrábne křik holčičky  
 takový starý  
@@ -293,7 +391,11 @@ nevidět pod víčka
 dál nic  
 zůstanu potmě s odešlým děsem
 
+</section>
 
+
+
+<section>
 
 V rohu u rybízů  
 otec štípal skříň  
@@ -305,7 +407,11 @@ pro nechané
 znamená přistihnout mečíky  
 něčím rozkývané
 
+</section>
 
+
+
+<section>
 
 Pokaždé kdosi vstává dřív  
 rozčeří místnosti  
@@ -315,7 +421,11 @@ třepnutím ubrusu
 odnese  
 mrtvé od večeře
 
+</section>
 
+
+
+<section>
 
 Lehké jídlo  
 s polohlasy blízkých  
@@ -326,7 +436,11 @@ lžičky k dezertu
 útle rozsypané  
 do nešetrně červených květin
 
+</section>
 
+
+
+<section>
 
 Krátká večerní milost  
 opatřování světla a vody  
@@ -338,7 +452,11 @@ vedle
 v tkvění přehozů a skla  
 otálím s nalezením
 
+</section>
 
+
+
+<section>
 
 Celé odpoledne se potkáváme  
 v členitém domě  
@@ -347,7 +465,11 @@ z trávy přiběhne dítě
 drobounce  
 tiše kramaří v naší jistotě
 
+</section>
 
+
+
+<section>
 
 Přistupuju ke krajům  
 pozotvíraného  
@@ -358,7 +480,11 @@ vidím jakési štěstí
 podle všeho  
 svoje
 
+</section>
 
+
+
+<section>
 
 Dole Ostrava  
 tady pravdě nepodobné keře  
@@ -371,3 +497,5 @@ před regálem s pitím
 v dálce klinkání říjnových bříz  
 za Paskovem zbytečně  
 velké nebe
+
+</section>
