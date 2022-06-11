@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-mesice-3b5ff75",
-  "revision": "3b5ff75",
+  "identifier": "hruska-mesice-40e133f",
+  "revision": "40e133f",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -17,8 +17,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:52:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883563462
+    "date": "Sat Jun 11 2022 12:06:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949207047
   },
   "documents": [
     {
