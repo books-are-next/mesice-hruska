@@ -16,7 +16,6 @@ v rozlehlých bílých dnech
 </section>
 
 
-
 <section>
 
 Ve tmě svítí  
@@ -31,8 +30,6 @@ stěhují pietu
 
 </section>
 
-
-
 <section>
 
 Mlátí do trubek  
@@ -45,8 +42,6 @@ zase příjde
 ale ono se to neposere
 
 </section>
-
-
 
 <section>
 
@@ -63,8 +58,6 @@ domácnost
 
 </section>
 
-
-
 <section>
 
 Vlaky z Ostravy  
@@ -77,8 +70,6 @@ lahváč je poloprázdný
 jak vzdálenost ve slově Karviná
 
 </section>
-
-
 
 <section>
 
@@ -93,8 +84,6 @@ klepajícíma popel
 
 </section>
 
-
-
 <section>
 
 Žádné další cesty  
@@ -107,8 +96,6 @@ všechno položit
 udržet byt
 
 </section>
-
-
 
 <section>
 
@@ -123,8 +110,6 @@ na dětském pyžamu
 
 </section>
 
-
-
 <section>
 
 Toho chlastu  
@@ -138,8 +123,6 @@ u krku stále důvěřivě zapnutá
 
 </section>
 
-
-
 <section>
 
 Vzadu v hospodě  
@@ -152,8 +135,6 @@ hotelové okno
 
 </section>
 
-
-
 <section>
 
 Přibývá květinových vzorů  
@@ -165,8 +146,6 @@ jen říkám že přibývá
 tichého květování
 
 </section>
-
-
 
 <section>
 
@@ -181,8 +160,6 @@ přemístěných věcí
 
 </section>
 
-
-
 <section>
 
 Zelený svetr  
@@ -195,8 +172,6 @@ zezadu obejmu
 zelený svetr
 
 </section>
-
-
 
 <section>
 
@@ -211,8 +186,6 @@ kříž a hodiny
 visí stejně
 
 </section>
-
-
 
 <section>
 
@@ -230,8 +203,6 @@ hlubokého bytu
 
 </section>
 
-
-
 <section>
 
 Okry stěn  
@@ -246,8 +217,6 @@ rudé koberce
 
 </section>
 
-
-
 <section>
 
 V laku vysokých pokojových dveří  
@@ -259,8 +228,6 @@ muž před knihovnou
 žena po dětech
 
 </section>
-
-
 
 <section>
 
@@ -276,8 +243,6 @@ děje
 
 </section>
 
-
-
 <section>
 
 Po deštivém týdnu  
@@ -289,8 +254,6 @@ jste mrtví prosí dítě
 a míří hračkou
 
 </section>
-
-
 
 <section>
 
@@ -305,8 +268,6 @@ to je nezavřená
 zásuvka s mýdly
 
 </section>
-
-
 
 <section>
 
@@ -325,8 +286,6 @@ padají šustky
 
 </section>
 
-
-
 <section>
 
 Dopoledne kropenaté hračkami  
@@ -341,8 +300,6 @@ a majetnicky zavolat
 
 </section>
 
-
-
 <section>
 
 Lijavec jasu  
@@ -356,8 +313,6 @@ bůh jde kolem zdí
 strmých zdí s policema
 
 </section>
-
-
 
 <section>
 
@@ -375,8 +330,6 @@ matčinu hůl
 
 </section>
 
-
-
 <section>
 
 V noci škrábne křik holčičky  
@@ -393,8 +346,6 @@ zůstanu potmě s odešlým děsem
 
 </section>
 
-
-
 <section>
 
 V rohu u rybízů  
@@ -409,8 +360,6 @@ něčím rozkývané
 
 </section>
 
-
-
 <section>
 
 Pokaždé kdosi vstává dřív  
@@ -422,8 +371,6 @@ odnese
 mrtvé od večeře
 
 </section>
-
-
 
 <section>
 
@@ -437,8 +384,6 @@ lžičky k dezertu
 do nešetrně červených květin
 
 </section>
-
-
 
 <section>
 
@@ -454,8 +399,6 @@ otálím s nalezením
 
 </section>
 
-
-
 <section>
 
 Celé odpoledne se potkáváme  
@@ -466,8 +409,6 @@ drobounce
 tiše kramaří v naší jistotě
 
 </section>
-
-
 
 <section>
 
@@ -481,8 +422,6 @@ podle všeho
 svoje
 
 </section>
-
-
 
 <section>
 
