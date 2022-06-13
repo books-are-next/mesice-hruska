@@ -2,15 +2,17 @@
 title: Tiráž
 ---
 
-<section>  
 **Petr Hruška    
 Měsíce**  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Měsíce](https://search.mlp.cz/cz/titul/mesice/2184362/) tak, jak bylo vydáno nakladatelstvím Host v Brně v roce 1998. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
