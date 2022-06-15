@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-mesice-8a01078",
-  "revision": "8a01078",
+  "identifier": "hruska-mesice-73d3deb",
+  "revision": "73d3deb",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -17,8 +17,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:55:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157354899
+    "date": "Wed Jun 15 2022 05:53:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272393446
   },
   "documents": [
     {
@@ -76,8 +76,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 710,
+      "words": 126,
+      "chars": 817,
       "ideas": 14,
       "role": "colophon",
       "order": null,
@@ -96,8 +96,8 @@
   ],
   "totals": {
     "all": {
-      "words": 908,
-      "chars": 5421,
+      "words": 922,
+      "chars": 5528,
       "ideas": 291
     },
     "chapters": {
