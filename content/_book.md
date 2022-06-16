@@ -11,7 +11,7 @@ meta:
   author: Petr Hruška
   publisher: Městská knihovna v Praze
   modified: '2020-01-16T00:00:00.000Z'
-  edition: beletrie
+  edition: poezie
   publisherShort: mkp
 readingOrder:
   - promo.html
