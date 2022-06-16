@@ -5,11 +5,11 @@
   "title": "Měsíce",
   "author": "Petr Hruška",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-mesice-73d3deb",
-  "revision": "73d3deb",
+  "identifier": "hruska-mesice-bacc77d",
+  "revision": "bacc77d",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -17,8 +17,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272393446
+    "date": "Thu Jun 16 2022 12:01:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655380888661
   },
   "documents": [
     {
@@ -97,7 +97,7 @@
   "totals": {
     "all": {
       "words": 922,
-      "chars": 5528,
+      "chars": 5526,
       "ideas": 291
     },
     "chapters": {

@@ -8,7 +8,7 @@
       "author": "Petr Hruška",
       "publisher": "Městská knihovna v Praze",
       "modified": "2020-01-16T00:00:00.000Z",
-      "edition": "beletrie",
+      "edition": "poezie",
       "publisherShort": "mkp"
     },
     "elements": {
@@ -803,6 +803,6 @@
       "user": "books-are-next",
       "repo": "mesice-hruska"
     },
-    "generatedAt": 1655271529322
+    "generatedAt": 1655380810848
   }
 }
