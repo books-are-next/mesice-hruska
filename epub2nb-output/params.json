@@ -64,7 +64,7 @@
             "filename": "mesice_003.md",
             "xhtml": "mesice_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "mesice_004.md",
             "xhtml": "mesice_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -486,7 +486,7 @@
             "filename": "mesice_038.md",
             "xhtml": "mesice_038.html",
             "id": 37,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": true,
@@ -803,6 +803,6 @@
       "user": "books-are-next",
       "repo": "mesice-hruska"
     },
-    "generatedAt": 1655979207274
+    "generatedAt": 1657182186368
   }
 }
