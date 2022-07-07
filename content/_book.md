@@ -17,7 +17,7 @@ readingOrder:
   - promo.html
   - mesice_005.html
   - mesice_006.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
