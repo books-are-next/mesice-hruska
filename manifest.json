@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hruska-mesice-7785e2e",
-  "revision": "7785e2e",
+  "identifier": "hruska-mesice-079997b",
+  "revision": "079997b",
   "readingOrder": [
     "promo.html",
     "mesice_005.html",
@@ -17,8 +17,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:05:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151513144
+    "date": "Mon Oct 10 2022 15:57:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417438111
   },
   "documents": [
     {
@@ -77,7 +77,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 125,
-      "chars": 817,
+      "chars": 818,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -97,7 +97,7 @@
   "totals": {
     "all": {
       "words": 921,
-      "chars": 5526,
+      "chars": 5527,
       "ideas": 290
     },
     "chapters": {
